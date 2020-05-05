@@ -10,19 +10,12 @@ Professor da Disciplina: Giuliano Bertoti
 
  
 
-Aluno: nome - ra
-Orientador: nome
+Aluno: Giovanna Xavier Matos - ra
+Orientador: Diogo Branquinho
 
  
 
 Título do TG: (título)
-
- 
-
-(ISSO NÃO PRECISA IR NO README.MD - É SÓ UMA INSTRUÇÃO: DAQUI EM DIANTE SIGA EXATAMENTE O MODELO DE TG DE BD A PARTIR DO CAPÍTULO 1 - AQUELA PARTE DE CAPAS VOCÊ PODE PREENCHER E GUARDAR PARA VOCÊ - AQUI NO GITHUB QUERO A PARTIR DO CAPÍTULO 1)
-
- 
-
 
 # 1ª Quinzena de maio
 
