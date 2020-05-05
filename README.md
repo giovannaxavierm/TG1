@@ -1,5 +1,3 @@
-Projeto trabalho graduação de banco de dados 01
-
 FACULDADE DE TECNOLOGIA DE SÃO JOSÉ DOS CAMPOS FATEC PROFESSOR JESSEN VIDAL
 
 NOME DO AUTOR
