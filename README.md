@@ -10,7 +10,7 @@ Professor da Disciplina: Giuliano Bertoti
 
  
 
-Aluno: Giovanna Xavier Matos - ra
+Aluno: Giovanna Xavier Matos
 Orientador: Diogo Branquinho
 
  
@@ -46,7 +46,8 @@ De acordo com Organização Mundial da Saúde, o suicídio mata 32 brasileiros p
 
  Apesar de na sociedade vigente a depressão ser muito difundida socialmente ainda existe muito desconhecimento sobre a doença, o que acaba gerando um preconceito nocivo à recuperação, muitas vezes acontecendo dentro de casa fazendo com que o paciente não conte com o apoio da família (Staut, Cristina 2018). 
 
-1.1. Objetivos do Trabalho 
+# 1.1. Objetivos do Trabalho 
+
 Para a consecução deste objetivo foram estabelecidos os objetivos específicos:
 •	Realizar uma investigação sobre os atuais motivos dos problemas psicológicos.
 •	Propor meios de ajuda para pessoas com deficiência.
