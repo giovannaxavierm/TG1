@@ -49,7 +49,9 @@ De acordo com Organização Mundial da Saúde, o suicídio mata 32 brasileiros p
 1.1. Objetivos do Trabalho 
 
 Para a consecução deste objetivo foram estabelecidos os objetivos específicos:
+
 •	Realizar uma investigação sobre os atuais motivos dos problemas psicológicos.
+
 •	Propor meios de ajuda para pessoas com deficiência.
 
  
