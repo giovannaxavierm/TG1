@@ -45,12 +45,15 @@ O Capítulo 3 apresenta o desenvolvimento da solução.
 Para a realização desse projeto será usada a linguagem de programação Python, o micro-Framework Flask e o mapeamento de objeto-relacional SQL SQLAlchemy.
 
 2.1. Python
+
 A linguagem de programação Python será usada no desenvolvimento por conta de sua simplicidade, por ser interpretada e de alto nível e pelo seu desenvolvimento web.
 
 2.2. Flask
+
 O Flask é um micro-framwrork multiplatarforma que provê um modelo simples para o desenvolvimento web. Com essa ferramenta é possível desenvolver com simplicidade e rapidez por possuir apenas o necessário para o desenvolvimento de uma aplicação e não tem a necessidade de realizar configurações que muitas vezes não são utilizadas.
 
 2.3 SQLAlchemy
+
 O SQLAlchemy é um framework de mapeamento objeto-relacional SQL, que é uma técnica de programação que auxilia na conver~sao de dados entre banco de dados relacionais e linaguens de programação. Ele será utilizado nessa aplicação por sua flexibilidade e por não ter a preocupação com a utilização de códigos SQL, além de possuir garantias de segurança.
 
 # 1ª Quinzena de junho
